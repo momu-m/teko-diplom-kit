@@ -8,7 +8,9 @@ in deine eigenen Worte bringst und deklarierst.
 
 ## Keine Gewähr für die Note
 
-Die Punkte, die eine KI mit diesem Paket schätzt, sind eine Schätzung. Sie können zu hoch oder zu tief sein. Die Note
+Die Punkte, die eine KI mit diesem Paket schätzt, und die Notenspanne, die sie daraus rechnet, sind eine Schätzung.
+Die Rechenregel (Note = Punkte ÷ 180 × 5 + 1, auf Zehntel gerundet, bestanden ab 4,0) steht im Skill
+`teko-bericht-regeln`. Sie können zu hoch oder zu tief sein. Die Note
 gibt die Schule, nach ihrem Raster und nach dem Urteil von Betreuer und Experte. Eine gute Schätzung ersetzt kein
 Gespräch mit deinem Betreuer.
 

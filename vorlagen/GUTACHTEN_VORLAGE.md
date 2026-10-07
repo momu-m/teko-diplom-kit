@@ -3,7 +3,7 @@
 Auftrag: <deine Frage in einem Satz, zum Beispiel «Entspricht mein Bericht den Vorgaben, und wo verliere ich Punkte?»>
 Geprüft wurde: <Version, Datum, Seitenzahl>, nur lesend.
 Massstab: die 20 Punkte (teko-6er-check), das Bewertungsraster deiner Schule, die Anleitung Technischer Bericht.
-Punktangaben sind Schätzungen [Schlussfolgerung], keine Notenprognose.
+Punktangaben sind Schätzungen [Schlussfolgerung]; die Notenspanne ist eine Orientierung, keine Note.
 
 ## 0 In fünf Sätzen
 
@@ -99,3 +99,15 @@ Eine Schätzung [Schlussfolgerung], keine Note. Das Raster deiner Schule gilt.
 | Arbeitsweise | nicht aus dem Bericht prüfbar (10) | |
 | Onlinepublikation | nicht aus dem Bericht prüfbar (10) | |
 | Bonus Schwierigkeitsgrad | <> (bis 15, ausserhalb des Maximums) | |
+
+**Notenspanne** [Schlussfolgerung]. Achtung: Schätzung der KI plus Annahmen, keine Note, kein Ersatz für die
+Bewertung durch Betreuer und Experte. Berichtpunkte <x> von 140. Note = (x + Annahme) ÷ 180 × 5 + 1, auf Zehntel
+gerundet, höchstens 6,0. Ohne Bonus, weil ihn der Betreuer festlegt (die Spanne ist dadurch eher vorsichtig).
+
+| Annahme für Präsentation, Arbeitsweise, Onlinepublikation | Punkte gesamt | Note |
+|---|---|---|
+| 50 % (20 von 40) | <x + 20> | <> |
+| 75 % (30 von 40) | <x + 30> | <> |
+| 100 % (40 von 40) | <x + 40> | <> |
+
+Bestanden ab Note 4,0 (107 Gesamtpunkte). Rechenweg: <...>

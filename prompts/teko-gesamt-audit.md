@@ -65,7 +65,18 @@ Titel: Gesamt-Gutachten, Stand <Datum>. Auftrag, geprüfte Version, «nur lesend
 8b Weitere Ergebnisse (Verweise lückenlos? Quelle fehlt im Verzeichnis? Abkürzung fehlt im Glossar? zu lange Sätze?).
 8c Abnahme (Urteil, eingearbeitete Einwände).
 9 Liste C «Entscheid des Studenten oder Betreuers»: höchstens ein Dutzend, nur Dinge, die niemand sonst entscheiden kann (Geld, Termin, Freigabe, Unterschrift, Angaben zur Person).
-Zum Schluss die Punkte-Schätzung je Rasterbereich (Bereich | Schätzung (max.) | Begründung).
+Zum Schluss die Punkte-Schätzung je Rasterbereich (Bereich | Schätzung (max.) | Begründung) und darunter die Notenspanne.
+Notenspanne [Schlussfolgerung]. Zuerst die Warnung, gut sichtbar: Die Spanne beruht auf einer KI-Schätzung der
+Berichtpunkte und auf Annahmen für Teile, die nicht im Bericht stehen. Sie ist keine Note und ersetzt die Bewertung
+durch Betreuer und Experte nicht. Aus dem Bericht lassen sich höchstens 140 der 180 Punkte schätzen. Für die übrigen 40
+(Präsentation 20, Arbeitsweise 10, Onlinepublikation 10) rechne drei Annahmen: 50 %, 75 % und 100 % erreicht (20, 30
+oder 40 Punkte). Note = (Berichtpunkte + Annahme) ÷ 180 × 5 + 1, auf eine Zehntelnote gerundet, höchstens 6,0. Den
+Bonus für den Schwierigkeitsgrad legt der Betreuer fest; er ist aus dem Bericht nicht schätzbar und bleibt deshalb
+draussen (die offizielle Rechnung zählt ihn mit, die Spanne ist also eher vorsichtig). Zeige den Rechenweg. Beispiel: Bericht 100 von 140 ergibt 4,3 / 4,6 /
+4,9. Bestanden ist ab Note 4,0 (107 Punkte); bei der mittleren Annahme (30) liegt die Grenze rechnerisch bei rund 77
+Berichtpunkten. Liegt die mittlere Annahme unter 4,0 oder knapp darüber, ist das ein Risiko, das der Student mit
+seinem Betreuer besprechen soll.
+Rechenregel: Note = Punkte ÷ 180 × 5 + 1, auf eine Zehntelnote gerundet, höchstens 6,0. Die Bonuspunkte für den Schwierigkeitsgrad (bis 15) zählen zu den Punkten, das Maximum für die Rechnung bleibt 180. Über 6,0 geht es nicht.
 Ordne die Listen nach Rasterpunkten je Stunde Aufwand, nicht nach der Reihenfolge der Funde.
 
 MODUS (ich sage dir, welcher gilt; ohne Angabe gilt Solo):

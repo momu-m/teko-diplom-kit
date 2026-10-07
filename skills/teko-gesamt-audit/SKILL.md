@@ -110,6 +110,7 @@ Das Gutachten folgt `vorlagen/GUTACHTEN_VORLAGE.md`:
 | 8b Weitere Ergebnisse | zum Beispiel: Verweise lückenlos, Quelle fehlt im Verzeichnis, Abkürzung fehlt im Glossar, zu lange Sätze |
 | 8c Abnahme | ja / ja mit Korrektur / nein, eingearbeitete Einwände |
 | 9 Liste C | nur, was du oder dein Betreuer entscheiden muss (Geld, Termin, Freigabe, Unterschrift) |
+| Notenspanne | Berichtpunkte von 140, drei Annahmen für die übrigen 40, Note je Annahme mit Rechenweg (Regel im Skill `teko-bericht-regeln`, «So wird aus Punkten die Note») |
 | Punkte-Schätzung | je Rasterbereich, mit Hinweis «nicht aus dem Bericht prüfbar» bei Präsentation, Weekly Report, Terminen und Onlinepublikation |
 
 Die Abhakliste folgt `vorlagen/ABHAKLISTE.md`, geordnet nach Rasterpunkten je Stunde, nicht nach der Reihenfolge der Funde. Eine abgehakte Zeile nennt Datum und Stelle der Änderung. Nach jeder Änderung: neu bauen, Zahlen nachrechnen lassen, Abnahme, erst dann abhaken.
@@ -134,7 +135,7 @@ Die Rollen werden auf mehrere KIs verteilt. Alle prüfen unabhängig, keine KI s
 - Richtwert Wörter je Seite: Liegt die Wortzahl je Seite über rund 320 (Faktor 2 gegenüber rund 160), ist das ein Befund.
 - Typische Rechenfehler: falsche Summe; Prozent vom falschen Grundwert; mit gerundeten Zwischenwerten weitergerechnet; Einheiten vermischt; eine Zahl aus einer älteren Fassung stehen geblieben; Zahl im Abstract ≠ Zahl im Ergebnisteil. Ein solcher Fehler macht jede Zahl unsicher, die darauf aufbaut; rechne sie alle nach. Er wiegt schwerer als Layout.
 - Neue allgemeine Falschbefunde als Lehre festhalten.
-- Das Gutachten ist eine Schätzung, keine Notenprognose. Unsicheres mit [Unbestätigt] markieren.
+- Das Gutachten ist eine Schätzung; die Notenspanne ist eine Orientierung, keine Note. Unsicheres mit [Unbestätigt] markieren.
 - Während des Audits ändert niemand den Bericht.
 
 ## So benutzt du es ohne Claude Code

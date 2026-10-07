@@ -38,6 +38,33 @@ Quelle: TEKO, Bewertungsraster Diplomarbeit (Stand 2026), eigene Zusammenfassung
 | Summe | 180 | | |
 | Bonus Schwierigkeitsgrad | bis 15 | ausserhalb des Maximums | Einschätzung, keine Messung |
 
+### So wird aus Punkten die Note
+
+Quelle: Rechenregel im Bewertungsformular der Schule (Stand 2026) und TEKO, Richtlinien Diplomarbeit (Stand Herbst 2026),
+sinngemäss. Massgebend sind das Formular und die Richtlinien deiner Schule.
+
+- Note = Punkte ÷ 180 × 5 + 1, auf eine Zehntelnote gerundet, höchstens 6,0. Die Bonuspunkte für den Schwierigkeitsgrad
+  (bis 15) zählen zu den Punkten, das Maximum für die Rechnung bleibt 180. Über 6,0 geht es nicht.
+- Eine Zehntelnote sind 3,6 Punkte.
+- Schwellen bei ganzen Punkten (Gesamtpunkte, ein allfälliger Bonus eingerechnet): Note 4,0 ab 107 Punkten, 4,5 ab
+  125, 5,0 ab 143, 5,5 ab 161, 6,0 ab 179. Jeder Bonuspunkt, den der Betreuer gibt, senkt die nötigen übrigen Punkte
+  um einen Punkt.
+- Bestanden ist die Diplomarbeit ab Note 4,0. Wer nicht besteht, kann sie einmal mit einem neuen Thema wiederholen. Eine
+  zu spät eingereichte Arbeit gilt als nicht eingereicht.
+- Die Note setzt der Betreuer nach dem Raster fest, in Absprache mit dem Experten. Bei einer Arbeit im Auftrag einer
+  Firma fliesst die Beurteilung der betrieblichen Fachperson mit ein.
+
+Notenspanne [Schlussfolgerung]. Zuerst die Warnung, gut sichtbar: Die Spanne beruht auf einer KI-Schätzung der
+Berichtpunkte und auf Annahmen für Teile, die nicht im Bericht stehen. Sie ist keine Note und ersetzt die Bewertung
+durch Betreuer und Experte nicht. Aus dem Bericht lassen sich höchstens 140 der 180 Punkte schätzen. Für die übrigen 40
+(Präsentation 20, Arbeitsweise 10, Onlinepublikation 10) rechne drei Annahmen: 50 %, 75 % und 100 % erreicht (20, 30
+oder 40 Punkte). Note = (Berichtpunkte + Annahme) ÷ 180 × 5 + 1, auf eine Zehntelnote gerundet, höchstens 6,0. Den
+Bonus für den Schwierigkeitsgrad legt der Betreuer fest; er ist aus dem Bericht nicht schätzbar und bleibt deshalb
+draussen (die offizielle Rechnung zählt ihn mit, die Spanne ist also eher vorsichtig). Zeige den Rechenweg. Beispiel: Bericht 100 von 140 ergibt 4,3 / 4,6 /
+4,9. Bestanden ist ab Note 4,0 (107 Punkte); bei der mittleren Annahme (30) liegt die Grenze rechnerisch bei rund 77
+Berichtpunkten. Liegt die mittlere Annahme unter 4,0 oder knapp darüber, ist das ein Risiko, das der Student mit
+seinem Betreuer besprechen soll.
+
 Skala je Kriterium: Der untere Teil der Punkte bewertet, ob das Verlangte vorhanden ist. Der obere Teil bewertet, wie gut es gemacht ist. Fehlt etwas ganz, ist der obere Teil von vornherein weg.
 
 Von den 180 Punkten sind 40 (Präsentation 20, Arbeitsweise 10, Onlinepublikation 10) nicht aus dem Bericht prüfbar. Aus dem Bericht prüfbar sind 140 Punkte.
@@ -54,7 +81,7 @@ Von den 180 Punkten sind 40 (Präsentation 20, Arbeitsweise 10, Onlinepublikatio
 
 Der Experte liefert, in dieser Reihenfolge:
 
-1. **Punkte-Schätzung je Bereich und Kriterium** mit Begründung in ein bis zwei Sätzen. Eine Schätzung, keine Notenprognose, als [Schlussfolgerung] markiert. Präsentation, Weekly Report, Termine und Onlinepublikation kann die KI aus dem Bericht nicht bewerten (40 von 180 Punkten; 140 sind prüfbar): Sie schreibt dort «nicht aus dem Bericht prüfbar» und vergibt keine Punkte.
+1. **Punkte-Schätzung je Bereich und Kriterium** mit Begründung in ein bis zwei Sätzen. Eine Schätzung, als [Schlussfolgerung] markiert, dazu die Notenspanne (siehe «So wird aus Punkten die Note»). Präsentation, Weekly Report, Termine und Onlinepublikation kann die KI aus dem Bericht nicht bewerten (40 von 180 Punkten; 140 sind prüfbar): Sie schreibt dort «nicht aus dem Bericht prüfbar» und vergibt keine Punkte.
 2. **Die drei schwächsten Stellen.** Jede mit wörtlichem Zitat und Seite. Was macht einen Prüfer stutzig? Eine Behauptung ohne Nachweis, eine Methode ohne Alternative, eine Zahl ohne Quelle.
 3. **Der Systemtechniker-Blick.** Wird gedacht wie ein Systemtechniker (Anforderung, Varianten, Entscheid mit Kriterium, Nachweis) oder wie ein Bastler («habe ich gemacht, geht»)? Die KI zeigt an Stellen, wo der Bericht beim Bastler-Satz stehen bleibt, welcher Schritt fehlt.
 4. **Was fehlt, und was raus kann.** Kürzen ist eine Tugend: Ein kürzerer Bericht ist besser, wenn die Aussage gleich bleibt.
@@ -107,7 +134,7 @@ Der Experte fragt, ob die Bestanden-Grenze vor oder nach der Messung festgelegt 
 Muster für Arbeitsweise (a):
 
 ```
-Punkte-Schätzung [Schlussfolgerung], keine Notenprognose
+Punkte-Schätzung [Schlussfolgerung], dazu Notenspanne (Orientierung, keine Note)
 | Bereich | Kriterium | Schätzung (max.) | Begründung |
 | Hauptteil | Variantenentscheide | 6 (10) | Varianten genannt, Kriterien ohne Gewichtung |
 | Präsentation | alle | nicht aus dem Bericht prüfbar | |

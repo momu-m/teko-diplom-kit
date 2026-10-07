@@ -160,6 +160,22 @@ Quelle: TEKO, Bewertungsraster Diplomarbeit (Stand 2026), sinngemäss. Skala je 
 
 Nachgerechnet: 20 + 25 + 30 + 20 + 15 + 10 + 10 + 10 + 10 + 20 + 10 = 180. Ergebnisse, Diskussion, Empfehlung und Ausblick zusammen sind 10 + 20 + 15 = 45 Punkte, ein Viertel der Summe. Was das Raster lehrt: Das Abstract zählt doppelt (Raster und Lesestoff des Experten). Der Wochenbericht fällt während der Arbeit an. Die Onlinepublikation ist benotet. Variantenentscheide sind ein eigenes Kriterium. Der Bonus zählt nur, wenn der Umfang im Bericht sichtbar ist. Ergebnisse brauchen Messdaten, also erzeuge früh Daten. Dein Raster kann abweichen: [Unbestätigt, ob dein Jahrgang dasselbe Formular nutzt].
 
+### So wird aus Punkten die Note
+
+Quelle: Rechenregel im Bewertungsformular der Schule (Stand 2026) und TEKO, Richtlinien Diplomarbeit (Stand Herbst 2026),
+sinngemäss. Massgebend sind das Formular und die Richtlinien deiner Schule.
+
+- Note = Punkte ÷ 180 × 5 + 1, auf eine Zehntelnote gerundet, höchstens 6,0. Die Bonuspunkte für den Schwierigkeitsgrad
+  (bis 15) zählen zu den Punkten, das Maximum für die Rechnung bleibt 180. Über 6,0 geht es nicht.
+- Eine Zehntelnote sind 3,6 Punkte.
+- Schwellen bei ganzen Punkten (Gesamtpunkte, ein allfälliger Bonus eingerechnet): Note 4,0 ab 107 Punkten, 4,5 ab
+  125, 5,0 ab 143, 5,5 ab 161, 6,0 ab 179. Jeder Bonuspunkt, den der Betreuer gibt, senkt die nötigen übrigen Punkte
+  um einen Punkt.
+- Bestanden ist die Diplomarbeit ab Note 4,0. Wer nicht besteht, kann sie einmal mit einem neuen Thema wiederholen. Eine
+  zu spät eingereichte Arbeit gilt als nicht eingereicht.
+- Die Note setzt der Betreuer nach dem Raster fest, in Absprache mit dem Experten. Bei einer Arbeit im Auftrag einer
+  Firma fliesst die Beurteilung der betrieblichen Fachperson mit ein.
+
 ## Form-Prüfliste
 
 Gehe die Punkte am Dokument durch. Jeder Befund mit wörtlichem Zitat und Fundstelle.

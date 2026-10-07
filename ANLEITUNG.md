@@ -197,7 +197,9 @@ Jedes Gutachten hat dieselbe Form (`vorlagen/GUTACHTEN_VORLAGE.md`):
 - **Liste A**: was du sofort selbst verbessern kannst.
 - **Liste B**: was erst geht, wenn deine letzten Ergebnisse da sind.
 - **Liste C**: was du mit deinem Betreuer oder deiner Firma klären musst.
-- **Punkte-Schätzung** je Bewertungsbereich. Eine Schätzung, keine Note.
+- **Punkte-Schätzung** je Bewertungsbereich und eine **Notenspanne**: Die KI rechnet die Berichtpunkte mit drei
+  Annahmen für Präsentation, Arbeitsweise und Onlinepublikation in eine Note um (Note = Punkte ÷ 180 × 5 + 1, bestanden
+  ab 4,0, das sind 107 Punkte). Eine Orientierung, keine Note.
 
 Arbeite die Listen mit `vorlagen/ABHAKLISTE.md` ab. Nach grösseren Änderungen prüfst du neu: Jede Änderung kann an einer
 anderen Stelle einen neuen Widerspruch erzeugen.

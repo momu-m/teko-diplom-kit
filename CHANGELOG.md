@@ -1,5 +1,14 @@
 # Änderungen
 
+## 1.1 (Oktober 2026)
+
+- Notenrechnung ergänzt: Note = Punkte ÷ 180 × 5 + 1, auf Zehntel gerundet, höchstens 6,0, bestanden ab 4,0 (107
+  Punkte), Schwellen 4,5 / 5,0 / 5,5 / 6,0 ab 125 / 143 / 161 / 179 Punkten (Skill `teko-bericht-regeln`).
+- `teko-experte`, `teko-gesamt-audit` und die Gutachten-Vorlage geben jetzt eine Notenspanne mit drei Annahmen für die
+  40 Punkte, die nicht aus dem Bericht prüfbar sind.
+- Regeln aus den Richtlinien ergänzt: Note durch den Betreuer mit dem Experten, Firmenbeurteilung fliesst ein, einmal
+  wiederholbar, zu spät eingereicht gilt als nicht eingereicht.
+
 ## 1.0 (Oktober 2026)
 
 Erste Fassung.

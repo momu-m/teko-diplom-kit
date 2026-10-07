@@ -23,7 +23,8 @@ brauchst nur eine KI. Hast du zwei oder mehr, wird die Prüfung strenger.
    Texteditor. Markiere den ganzen Text zwischen `--- ANFANG ---` und `--- ENDE ---`, kopiere ihn und füge ihn in ein
    neues Chatfenster deiner KI ein (zum Beispiel ChatGPT).
 3. Hänge deinen Bericht an (oder ein einzelnes Kapitel) und schicke die Nachricht ab.
-4. Du bekommst eine grobe Punkte-Schätzung je Bewertungsbereich (keine Note, sie kann deutlich daneben liegen), die
+4. Du bekommst eine grobe Punkte-Schätzung je Bewertungsbereich mit einer Notenspanne (eine Orientierung, keine Note;
+   sie kann deutlich daneben liegen), die
    drei schwächsten Stellen und was ein Experte fragen würde.
 5. Prüfe jeden Befund selbst an der genannten Seite. Erst dann änderst du etwas.
 
